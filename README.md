@@ -1,3 +1,5 @@
+##RESTful-Web-Service
+
 This is a RESTful Web Service using PHP, JSON and mysql. 
 
 It was developed for an app (game) which basically consists in evaluating synchronous finger movements of two persons on the touch screen of two paired smartphones.
